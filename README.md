@@ -2,6 +2,10 @@
 
 # Bank Data REST API
 
+Deployed Link: https://banks-umh0.onrender.com
+Postman Documentation: https://documenter.getpostman.com/view/29192923/2sA3XQiNRv
+Time taken : 2 hours
+
 The problem involved creating REST API endpoints to access and manage bank branch data. Here's a breakdown of the method I used to solve it:
 
 ## Understanding the Requirements
@@ -36,4 +40,4 @@ By following these steps, I was able to provide a comprehensive solution that ad
 
 ---
 
-This syntax provides a clear and structured explanation of the problem, solution, and methodologies used, making it easy for others to understand the project when they view the `README.md` file on GitHub.
+
